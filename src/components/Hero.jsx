@@ -33,7 +33,7 @@ const Hero = () => {
             }}
           >
             <img
-              src="https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?auto=format&fit=crop&w=1920&q=80"
+              src="./../assets/hero_bg_new.png"
               alt="International Cargo Port stacked containers at golden hour"
               onError={() => setBgError(true)}
               className="w-full h-full object-cover object-center opacity-70"
